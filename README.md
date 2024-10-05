@@ -1,0 +1,2 @@
+# NotZie
+simple notes app
