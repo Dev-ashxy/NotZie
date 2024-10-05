@@ -2,7 +2,7 @@
 
 <p align="center"><img src="" alt="project-image"></p>
 
-<p id="description">A simple web based notes app for personal use.</p>
+<p id="description">A simple web based notes app for personal use. 😉</p>
 
 <h2>🛡️ License:</h2>
 
