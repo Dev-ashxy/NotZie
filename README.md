@@ -1,7 +1,7 @@
 <h1 align="center" id="title">🗒️NotZie</h1>
 
-<p align="center"><img src="![image](https://github.com/user-attachments/assets/fe0999ab-d094-41e6-8d1d-b38ab644f56b)
-" alt="project-image"></p>
+<p align="center">![Screenshot 2024-10-05 231915](https://github.com/user-attachments/assets/58e7f492-904a-42d2-83a3-fe64ea9a5e66)
+</p>
 
 <p id="description">A simple web based notes app for personal use. 😉</p>
 
