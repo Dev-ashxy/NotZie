@@ -1,6 +1,6 @@
 <h1 align="center" id="title">🗒️NotZie</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
+<p align="center"><img src="http://127.0.0.1:5500/NOTzie/index.html" alt="project-image"></p>
 
 <p id="description">A simple web based notes app for personal use. 😉</p>
 
